@@ -4,13 +4,16 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write # 깃허브 프로필 README에 글 목록을 쓸 수 있도록 권한 부여
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
