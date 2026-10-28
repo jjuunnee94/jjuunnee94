@@ -29,9 +29,9 @@
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyTorch Basic - 행렬곱과 모양](https://jjuunnee94.github.io/posts/pytorch-matmul/)
 - [Weekly paper #6](https://jjuunnee94.github.io/posts/weekly-paper-6/)
 - [PyTorch Basic - Tensor](https://jjuunnee94.github.io/posts/pytorch-tensor/)
 - [Weekly paper #5](https://jjuunnee94.github.io/posts/weekly-paper-5/)
 - [Predicting Titanic Survival Rates using Machine Learning](https://jjuunnee94.github.io/posts/titanic-machine-learning/)
-- [Weekly paper #4](https://jjuunnee94.github.io/posts/weekly-paper-4/)
 <!-- BLOG-POST-LIST:END -->
