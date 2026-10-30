@@ -29,9 +29,9 @@
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyTorch Basic - nn.Module과 nn.Linear](https://jjuunnee94.github.io/posts/pytoch-nn.Module&nn.Linear/)
 - [PyTorch Basic - Autograd](https://jjuunnee94.github.io/posts/pytorch-autograd/)
 - [PyTorch Basic - 행렬곱과 모양](https://jjuunnee94.github.io/posts/pytorch-matmul/)
 - [Weekly paper #6](https://jjuunnee94.github.io/posts/weekly-paper-6/)
 - [PyTorch Basic - Tensor](https://jjuunnee94.github.io/posts/pytorch-tensor/)
-- [Weekly paper #5](https://jjuunnee94.github.io/posts/weekly-paper-5/)
 <!-- BLOG-POST-LIST:END -->
