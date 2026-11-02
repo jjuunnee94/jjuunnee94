@@ -29,9 +29,9 @@
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyTorch Basic - device와 CrossEntropyLoss](https://jjuunnee94.github.io/posts/crossentropyloss/)
 - [PyTorch Basic - ReLU와 MLP](https://jjuunnee94.github.io/posts/pytorch-relu/)
+- [Weekly paper #6](https://jjuunnee94.github.io/posts/weekly-paper-6/)
 - [PyTorch Basic - 05. Dataset과 DataLoader](https://jjuunnee94.github.io/posts/pytorch-dataset&dataloader/)
 - [PyTorch Basic - 04. nn.Module과 nn.Linear](https://jjuunnee94.github.io/posts/pytoch-nn.Module&nn.Linear/)
-- [PyTorch Basic - 03. Autograd](https://jjuunnee94.github.io/posts/pytorch-autograd/)
-- [PyTorch Basic - 02. 행렬곱과 모양](https://jjuunnee94.github.io/posts/pytorch-matmul/)
 <!-- BLOG-POST-LIST:END -->
