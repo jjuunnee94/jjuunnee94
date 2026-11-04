@@ -29,9 +29,9 @@
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[하루 10개 개발 영단어장] Day_03](https://jjuunnee94.github.io/posts/vocabulary-day03/)
+- [CNN - CNN 기본 개념](https://jjuunnee94.github.io/posts/cnn-basic/)
+- [PyTorch Basic - 내가 헷갈렸던 개념 정리](https://jjuunnee94.github.io/posts/study-1/)
+- [PyTorch Basic - AI와 함께 PyTorch전체 코드 정리하기](https://jjuunnee94.github.io/posts/pytorch-aicode/)
 - [[하루 10개 개발 영단어장] Day_02](https://jjuunnee94.github.io/posts/vocabulary-day02/)
-- [PyTorch Basic - 평가와 모델 저장](https://jjuunnee94.github.io/posts/pytorch-eval/)
-- [[하루 10개 개발 영단어장] Day_01](https://jjuunnee94.github.io/posts/vocabulary-day01/)
-- [PyTorch Basic - device와 CrossEntropyLoss](https://jjuunnee94.github.io/posts/crossentropyloss/)
-- [PyTorch Basic - ReLU와 MLP](https://jjuunnee94.github.io/posts/pytorch-relu/)
 <!-- BLOG-POST-LIST:END -->
