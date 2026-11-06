@@ -29,9 +29,9 @@
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[하루 10개 개발 영단어장] Day_05](https://jjuunnee94.github.io/posts/vocabulary-day05/)
+- [CNN - 03. Stride와 Padding](https://jjuunnee94.github.io/posts/cnn-stride-padding/)
 - [[하루 10개 개발 영단어장] Day_04](https://jjuunnee94.github.io/posts/vocabulary-day04/)
-- [CNN - 합성곱 계산과 특징맵](https://jjuunnee94.github.io/posts/cnn-feature-map-calculation/)
+- [CNN - 02. 합성곱 계산과 특징맵](https://jjuunnee94.github.io/posts/cnn-feature-map-calculation/)
 - [[하루 10개 개발 영단어장] Day_03](https://jjuunnee94.github.io/posts/vocabulary-day03/)
-- [CNN - CNN 기본 개념](https://jjuunnee94.github.io/posts/cnn-basic/)
-- [PyTorch Basic - 내가 헷갈렸던 개념 정리](https://jjuunnee94.github.io/posts/study-1/)
 <!-- BLOG-POST-LIST:END -->
