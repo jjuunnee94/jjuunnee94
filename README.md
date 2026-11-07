@@ -29,9 +29,9 @@
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CNN - 04. Dilation](https://jjuunnee94.github.io/posts/cnn-dilation/)
 - [[하루 10개 개발 영단어장] Day_05](https://jjuunnee94.github.io/posts/vocabulary-day05/)
 - [CNN - 03. Stride와 Padding](https://jjuunnee94.github.io/posts/cnn-stride-padding/)
+- [Weekly paper #6](https://jjuunnee94.github.io/posts/weekly-paper-7/)
 - [[하루 10개 개발 영단어장] Day_04](https://jjuunnee94.github.io/posts/vocabulary-day04/)
-- [CNN - 02. 합성곱 계산과 특징맵](https://jjuunnee94.github.io/posts/cnn-feature-map-calculation/)
-- [[하루 10개 개발 영단어장] Day_03](https://jjuunnee94.github.io/posts/vocabulary-day03/)
 <!-- BLOG-POST-LIST:END -->
