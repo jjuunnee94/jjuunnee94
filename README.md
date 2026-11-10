@@ -29,9 +29,9 @@
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[하루 10개 개발 영단어장] Day_07](https://jjuunnee94.github.io/posts/vocabulary-day07/)
+- [CNN - 07. Flatten, Linear, 모델 구조](https://jjuunnee94.github.io/posts/cnn-simplecnn/)
+- [이미지와 컴퓨터비전 - PRACTICE 풀이](https://jjuunnee94.github.io/posts/computer-vision-practice/)
 - [[하루 10개 개발 영단어장] Day_06](https://jjuunnee94.github.io/posts/vocabulary-day06/)
 - [CNN - 06. ReLU, Pooling, 수용영역](https://jjuunnee94.github.io/posts/cnn-relu-pooling/)
-- [CNN - 05. Channel과 Conv2d](https://jjuunnee94.github.io/posts/cnn-channel/)
-- [CNN - 04. Dilation](https://jjuunnee94.github.io/posts/cnn-dilation/)
-- [[하루 10개 개발 영단어장] Day_05](https://jjuunnee94.github.io/posts/vocabulary-day05/)
 <!-- BLOG-POST-LIST:END -->
