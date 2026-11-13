@@ -23,7 +23,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Lee June's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuunnee94&show_icons=true&theme=radical)
+[![Lee June's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jjuunnee94&theme=radical)](https://github.com/jjuunnee94)
 
 ---
 
