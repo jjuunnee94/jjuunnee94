@@ -29,9 +29,9 @@
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CNN - 10. Evaluation](https://jjuunnee94.github.io/posts/cnn-evaluation/)
+- [Weekly paper #8](https://jjuunnee94.github.io/posts/weekly-paper-8/)
 - [CNN&lpar;합성곱 신경망&rpar;의 역사와 핵심 아키텍처 정리 &lpar;LeNet부터 ConvNeXt까지&rpar;](https://jjuunnee94.github.io/posts/cnn-history/)
 - [Built-in Function - map, filter, zip, enumerate, any, all](https://jjuunnee94.github.io/posts/Built-in_Function/)
 - [Comprehension 4가지 종류 정리](https://jjuunnee94.github.io/posts/comprehension/)
-- [[하루 10개 개발 영단어장] Day_08](https://jjuunnee94.github.io/posts/vocabulary-day-08/)
-- [CNN - 09. 학습 루프, CrossEntropyLoss](https://jjuunnee94.github.io/posts/cnn-training/)
 <!-- BLOG-POST-LIST:END -->
