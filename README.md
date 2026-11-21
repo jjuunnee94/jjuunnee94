@@ -29,9 +29,9 @@
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [AutoEncoder 기호 및 공식 정리 1](https://jjuunnee94.github.io/posts/autoencoder-symbol-formula-note-1/)
+- [AutoEncoder 기호 및 공식 정리 2](https://jjuunnee94.github.io/posts/autoencoder-symbol-formula-note-2/)
+- [RNN - 06. LSTM 수치 계산과 LSTMCell](https://jjuunnee94.github.io/posts/rnn-lstm-calculation/)
+- [AutoEncoder 기호 및 공식 정리 1](https://jjuunnee94.github.io/posts/autoencoder-symbol-formula-note-1/)
+- [Weekly paper #8](https://jjuunnee94.github.io/posts/weekly-paper-9/)
 - [RNN - 05. 기울기 소실과 LSTM 구조](https://jjuunnee94.github.io/posts/rnn-vanishing-gradient-lstm/)
-- [RNN 기호 및 공식 정리 3](https://jjuunnee94.github.io/posts/rnn-symbol-formula-note-3/)
-- [RNN - 04. 손실과 BPTT](https://jjuunnee94.github.io/posts/rnn-loss-bptt/)
-- [RNN 기호 및 공식 정리 2](https://jjuunnee94.github.io/posts/rnn-symbol-formula-note-2/)
 <!-- BLOG-POST-LIST:END -->
