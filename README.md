@@ -29,9 +29,9 @@
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [RNN - 09. LSTM·GRU 비교, 입력 길이, 양방향 RNN](https://jjuunnee94.github.io/posts/rnn-compare-length-bidirectional/)
+- [AutoEncoder 기호 및 공식 정리 4](https://jjuunnee94.github.io/posts/autoencoder-symbol-formula-note-4/)
 - [RNN - 08. GRU](https://jjuunnee94.github.io/posts/rnn-gru/)
 - [AutoEncoder 기호 및 공식 정리 3](https://jjuunnee94.github.io/posts/autoencoder-symbol-formula-note-3/)
 - [AutoEncoder 기호 및 공식 정리 2](https://jjuunnee94.github.io/posts/autoencoder-symbol-formula-note-2/)
-- [RNN - 07. LSTM의 여러 상태 칸과 nn.LSTM](https://jjuunnee94.github.io/posts/rnn-lstm-tensor-api/)
-- [RNN - 06. LSTM 수치 계산과 LSTMCell](https://jjuunnee94.github.io/posts/rnn-lstm-calculation/)
 <!-- BLOG-POST-LIST:END -->
