@@ -29,9 +29,9 @@
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AutoEncoder - 01. 복원 구조와 작은 오토인코더](https://jjuunnee94.github.io/posts/autoencoder-reconstruction/)
+- [컴퓨터 비전 기호 및 공식 정리 1](https://jjuunnee94.github.io/posts/cv-symbol-formula-note-1/)
 - [RNN - 09. LSTM·GRU 비교, 입력 길이, 양방향 RNN](https://jjuunnee94.github.io/posts/rnn-compare-length-bidirectional/)
 - [AutoEncoder 기호 및 공식 정리 4](https://jjuunnee94.github.io/posts/autoencoder-symbol-formula-note-4/)
 - [RNN - 08. GRU](https://jjuunnee94.github.io/posts/rnn-gru/)
-- [AutoEncoder 기호 및 공식 정리 3](https://jjuunnee94.github.io/posts/autoencoder-symbol-formula-note-3/)
-- [AutoEncoder 기호 및 공식 정리 2](https://jjuunnee94.github.io/posts/autoencoder-symbol-formula-note-2/)
 <!-- BLOG-POST-LIST:END -->
