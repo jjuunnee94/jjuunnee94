@@ -29,9 +29,9 @@
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [이미지 변환 흐름 - Pillow 이미지 → NumPy 배열 → PyTorch 텐서](https://jjuunnee94.github.io/posts/cv-pil-numpy-pytorch/)
-- [컴퓨터 비전 자료형&lpar;dtype&rpar; 정리](https://jjuunnee94.github.io/posts/cv-dtype-note/)
-- [AutoEncoder - 03. 경사 하강법과 파라미터 갱신](https://jjuunnee94.github.io/posts/autoencoder-gradient-descent/)
-- [Object Detection SSD 09](https://jjuunnee94.github.io/posts/object-detection-mission-9/)
-- [Object Detection SSD 08](https://jjuunnee94.github.io/posts/object-detection-mission-8/)
+- [컴퓨터 비전 기호 및 공식 정리 3](https://jjuunnee94.github.io/posts/cv-symbol-formula-note-3/)
+- [AutoEncoder - 04. 병목과 정보 손실](https://jjuunnee94.github.io/posts/autoencoder-bottleneck/)
+- [CNN의 역사 - 그 이후](https://jjuunnee94.github.io/posts/cnn-history-study-note-3/)
+- [CNN의 역사 - ImageNet 이미지 분류 대회](https://jjuunnee94.github.io/posts/cnn-history-study-note-2/)
+- [CNN의 역사 - CNN의 시작](https://jjuunnee94.github.io/posts/cnn-history-study-note-1/)
 <!-- BLOG-POST-LIST:END -->
